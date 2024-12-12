@@ -1,6 +1,6 @@
 ﻿openapi: 3.0.0
 info:
-  title: Acessport2LtpTranslator
+  title: AccessportToLtpTranslator
   version: 1.0.2
 
 x-gui-paths:
