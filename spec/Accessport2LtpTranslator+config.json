@@ -905,9 +905,9 @@
             "layer-protocol-name": "http-server-interface-1-0:LAYER_PROTOCOL_NAME_TYPE_HTTP_LAYER",
             "http-server-interface-1-0:http-server-interface-pac": {
               "http-server-interface-capability": {
-                "application-name": "Accessport2LtpTranslator",
+                "application-name": "AccessportToLtpTranslator",
                 "release-number": "1.0.2",
-                "application-purpose": "Accessport2LtpTranslator is translating given sequenceId values (for instance from a legacy tool like x:akta or APT) into the UUIDs of LTPs.",
+                "application-purpose": "AccessportToLtpTranslator is translating given sequenceId values (for instance from a legacy tool like x:akta or APT) into the UUIDs of LTPs.",
                 "data-update-period": "http-server-interface-1-0:DATA_UPDATE_PERIOD_TYPE_REAL_TIME",
                 "owner-name": "Thomas Seitz",
                 "owner-email-address": "thomas.seitz@telefonica.com",

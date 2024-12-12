@@ -54,7 +54,7 @@ servers:
         - operation-name: /v1/translate-equipment-sequence-ids-to-ltp-uuids
           uuid: atlt-1-0-2-op-s-is-000
   http-server:
-    own-application-name: Accessport2LtpTranslator
+    own-application-name: AccessportToLtpTranslator
     own-release-number: 1.0.2
     uuid: atlt-1-0-2-http-s-000
   tcp-server:
